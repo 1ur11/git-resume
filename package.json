@@ -1,0 +1,26 @@
+{
+  "name": "git-resume",
+  "version": "0.0.1",
+  "description": "Automatic generate PDF of resume based on JSON Resume",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:1ur11/git-resume.git"
+  },
+  "license": "ISC",
+  "author": "Yuri Kravcenko",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0",
+    "npm": ">=9.0.0"
+  },
+  "scripts": {
+    "render": "resumed render ./resume.json",
+    "render:pdf": "resumed export resume.json --format pdf --output yuri-kravcenko.pdf --puppeteer-arg=--no-sandbox --puppeteer-arg=--disable-setuid-sandbox",
+    "validate": "resumed validate resume.json"
+  },
+  "devDependencies": {
+    "jsonresume-theme-even": "^0.26.1",
+    "puppeteer": "^24.25.0",
+    "resumed": "^6.1.0"
+  }
+}

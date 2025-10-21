@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "theme": "jsonresume-theme-even"
+  },
+  "basics": {
+    "name": "Yuri Kravcenko",
+    "label": "Tech Lead & Software Architect",
+    "summary": "Experienced, pragmatic, and organized software developer with over 15 years in web, mobile, and application development. Proven track record of delivering full-stack solutions, including over 10 advanced web applications and 5+ mobile apps (iOS/Android) using React Native and Apache Cordova. Expert in analyzing requirements, debugging, optimizing code, and leading teams. Strong communication and leadership skills with a focus on clean architecture and scalable design.",
+    "location": {
+      "city": "Riga",
+      "countryCode": "LV",
+      "region": "Latvia"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "1ur11",
+        "url": "https://github.com/1ur11"
+      },
+      {
+        "network": "linkedin",
+        "username": "Yuri Kravcenko",
+        "url": "https://www.linkedin.com/in/yuri-kravcenko/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Spirii",
+      "position": "Senior fullstack developer",
+      "startDate": "2025-07-02",
+      "endDate": "2025-10-15",
+      "summary": "Refactoring and developing new features for an existing project that provides EV charging solutions(OCPI/Hubject OICP).",
+      "highlights": [
+        "Refactored legacy code to improve maintainability and performance",
+        "Improve environment setup using Docker"
+      ]
+    },
+    {
+      "company": "DAAily platforms AG",
+      "position": "Lead developer/Software architect",
+      "startDate": "2023-01-01",
+      "endDate": "2025-07-01",
+      "summary": "Leading a team of 5 developers (2 backend, 2 frontend and 1 UI/UX). Developing a custom CMS that allows users to personalize their version of the portal, which can then be embedded into their own website via an iframe. The website is built with Laravel (PHP), while the admin interface is developed using TypeScript and the Next.js framework. The API is implemented with microservices using Node.js(Express).",
+      "highlights": [
+        "Prepared and designed the overall architecture of the project",
+        "Implemented GitHub CI/CD using Docker and AWS (ECR, ECS, App Runner, Load Balancer, Route 53, CloudFront)",
+        "Developed frontend using Next.js with Module Federation for microfrontend support",
+        "Built microservices architecture with Node.js(Express)",
+        "Enhanced authentication mechanisms for APIs"
+      ]
+    },
+    {
+      "company": "Vewd/XPERI/TiVo",
+      "position": "JavaScript/TypeScript Developer",
+      "startDate": "2022-03-01",
+      "endDate": "2022-12-31",
+      "summary": "Implementing Web Browser for TV build with JavaScript/TypeScript",
+      "highlights": [
+        "Integrated Storybook to document UI components and support visual testing",
+        "Developed a reactive rendering solution for DOM and Shadow DOM using custom elements",
+        "Optimized Webpack configuration to significantly reduce build times",
+        "Enhanced GitHub CI/CD workflows for faster, more reliable deployments"
+      ]
+    },
+    {
+      "company": "Private IT Company",
+      "position": "PHP/JavaScript Developer and Software architect",
+      "startDate": "2021-10-01",
+      "endDate": "2022-03-01",
+      "summary": "The company’s internal system manages parcel tracking, truck logistics, invoicing, and more. The project was built using Laravel and Livewire.",
+      "highlights": [
+        "Integrated parcel tracking data from multiple external APIs",
+        "Developed a dynamic dashboard supporting various invoice workflows",
+        "Implemented Laravel Queues, Events, and Task Scheduling for asynchronous processing",
+        "Increased PHPUnit test coverage to 90%, improving system reliability"
+      ]
+    },
+    {
+      "company": "Private App",
+      "position": "JavaScript/Typescript Developer and Software architect",
+      "startDate": "2021-08-01",
+      "endDate": "2022-03-01",
+      "summary": "Led the development and scaling of a startup project, managing 4 React Native mobile apps (2 iOS, 2 Android), a backend/UI built with Node.js(Svelte), and an admin dashboard in Vue.js.",
+      "highlights": [
+        "Implemented Docker containers for backend and UI services, optimizing development and deployment workflows.",
+        "Set up and maintained CI/CD pipelines, ensuring automated and efficient deployment processes.",
+        "Managed daily deployments of all 4 apps (iOS and Android) to the App Store and Google Play using React Native."
+      ]
+    },
+    {
+      "company": "Private Portal",
+      "position": "JavaScript/Typescript Developer and Software architect",
+      "startDate": "2021-08-01",
+      "endDate": "2022-03-01",
+      "summary": "Took over and spearheaded the development of a project using Node.js(NestJS) for the backend and Vue.js for the frontend, driving improvements across the development lifecycle.",
+      "highlights": [
+        "Enhanced Terraform deployment processes to AWS, improving scalability and reliability.",
+        "Optimized testing server environments for faster iteration and development cycles.",
+        "Streamlined and improved CI/CD workflows to accelerate deployment times and increase efficiency.",
+        "Upgraded the codebase to the latest versions of Node.js(NestJS) and Vue.js, ensuring compatibility and leveraging new features.",
+        "Developed new features and resolved bugs across both the backend and frontend to improve functionality and user experience."
+      ]
+    },
+    {
+      "company": "ambrite",
+      "position": "Software Developer & Software Architect",
+      "startDate": "2017-01-01",
+      "endDate": "2021-09-01",
+      "summary": "At ambrite, I design, build, and deliver cutting-edge software products leveraging state-of-the-art machine learning technologies. As a Software Developer & Architect, I stay ahead of industry trends, working with technologies like Node.js, React, React Native, GraphQL, and TypeScript.",
+      "highlights": [
+        "Developed and optimized high-performance backend applications using JavaScript/TypeScript(Node.js) to handle high-load scenarios.",
+        "Designed and implemented robust database schemas and models for a variety of databases including Cassandra, PostgreSQL, MySQL, and NoSQL.",
+        "Built dynamic and responsive web applications using React, focusing on user experience and performance.",
+        "Contributed to the development of 3 mobile applications using React Native, ensuring seamless cross-platform functionality.",
+        "Designed and implemented Docker containers for web and Node.js applications, improving development and deployment processes.",
+        "Practiced Test-Driven Development (TDD) to ensure high-quality, maintainable software.",
+        "Developed and automated unit tests, end-to-end (E2E) tests, and performance testing to ensure code reliability and performance.",
+        "Deployed services to Google Cloud Platform (GCP), optimizing scalability and resource management.",
+        "Created and maintained CI/CD pipelines using CircleCI and GCP Cloud Build, ensuring seamless integration and deployment."
+      ]
+    },
+    {
+      "company": "ambrite Latvia",
+      "position": "Head of ambrite Latvia",
+      "startDate": "2017-01-01",
+      "endDate": "2020-08-01",
+      "summary": "As the Head of ambrite Latvia, I led the organization and optimization of workflows, including recruiting and training team members, preparing workspaces, and addressing administrative challenges to ensure smooth operations."
+    },
+    {
+      "company": "GLC KODEX",
+      "position": "Node.js Developer",
+      "startDate": "2016-05-01",
+      "endDate": "2016-12-31",
+      "summary": "At GLC KODEX, I drove the shift to modern development practices by transitioning the team to JavaScript, aligning with the latest industry trends to improve efficiency and scalability in our projects.",
+      "highlights": [
+        "Developed high-performance, highly-scalable applications using JavaScript(Node.js) to handle heavy loads and ensure responsiveness.",
+        "Designed and optimized Cassandra database schemas to support efficient data storage and retrieval.",
+        "Refactored and optimized existing codebase to improve performance, readability, and maintainability.",
+        "Built Node.js applications that import and parse data from multiple sources (CSV, TXT, plain website data), streamlining data processing workflows."
+      ]
+    },
+    {
+      "company": "GLC KODEX",
+      "position": "Full Stack Web Developer",
+      "startDate": "2014-10-01",
+      "endDate": "2016-05-01",
+      "summary": "At GLC KODEX, a leading IT technology service provider, I develop, test, and implement complex web applications using PHP and MySQL/Redis databases, ensuring high performance and reliability.",
+      "highlights": [
+        "Collaborated in project planning, providing accurate work effort and cost estimates to ensure timely and budget-conscious delivery.",
+        "Developed dynamic web applications using PHP, HTML, CSS, and JavaScript, focusing on user experience and performance.",
+        "Designed and optimized SQL database schemas to ensure efficient data storage, retrieval, and scalability.",
+        "Led teams of 3-5 developers, fostering collaboration and ensuring smooth project execution.",
+        "Led design and code reviews, ensuring adherence to best practices and code quality standards.",
+        "Designed and implemented automated unit tests, improving code quality and reducing defects.",
+        "Prepared detailed documentation and user manuals to ensure clear communication of system functionality and ease of use."
+      ]
+    },
+    {
+      "company": "JK Studio",
+      "position": "CEO/CTO",
+      "startDate": "2008-02-01",
+      "endDate": "2013-06-01",
+      "summary": "At JK Studio, a web design studio focused on developing small to medium-sized websites, I was responsible for analyzing user requirements, managing UI/UX design and wireframing, and leading a team to successfully deliver high-quality websites.",
+      "highlights": [
+        "Collaborated with clients to thoroughly analyze their requirements, ensuring tailored web solutions.",
+        "Designed and developed over 100 websites, consistently delivering projects on time and to specification.",
+        "Utilized HTML, JavaScript, and PHP to develop dynamic, responsive websites with a focus on performance.",
+        "Led the design and development of intuitive user interfaces, enhancing user experience and engagement.",
+        "Managed recruitment and onboarding of new team members to strengthen the development team.",
+        "Designed SQL database schemas to support efficient data management and optimize website performance."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "SIA Progmeistars",
+      "position": "HTML/CSS/JS Teacher",
+      "startDate": "2013-01-01",
+      "endDate": "2014-12-31",
+      "summary": "Progmeistars is a computer training center specializing in programming, network administration, internet technologies, olympiad preparation, and advanced mathematics courses for students.",
+      "highlights": [
+        "Taught students the fundamentals of HTML, CSS, and JavaScript, helping them build a strong foundation in web development."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "TRANSPORT AND TELECOMMUNICATION INSTITUTE",
+      "studyType": "Bachelor of Natural Sciences in Computer Science (incomplete)",
+      "qualification": "Bachelor of Natural Sciences in Computer Science (incomplete)",
+      "startDate": "2013",
+      "endDate": "2017"
+    },
+    {
+      "institution": "TRANSPORT AND TELECOMMUNICATION INSTITUTE",
+      "qualification": "Bachelor of Social Sciences in Economics",
+      "studyType": "Bachelor of Social Sciences in Economics",
+      "startDate": "2008",
+      "endDate": "2010"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "Senior",
+      "keywords": ["TypeScript/Javascript", "NodeJs", "HTML", "CSS", "PHP"]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Senior",
+      "keywords": [
+        "Node.js",
+        "Next.js",
+        "NestJS",
+        "React",
+        "React Native",
+        "Strapi",
+        "Express.js",
+        "Laravel",
+        "vue.js",
+        "Cordova"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Senior",
+      "keywords": [
+        "MySQL",
+        "PostgreSQL",
+        "Apache Cassandra",
+        "MongoDB",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Testing tools",
+      "level": "Senior",
+      "keywords": [
+        "Playwright",
+        "Jest",
+        "Mocha",
+        "Chai",
+        "Selenium",
+        "Cypress",
+        "Istanbul"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Senior",
+      "keywords": [
+        "Docker",
+        "Github actions",
+        "Google Cloud Platform",
+        "AWS",
+        "Terraform",
+        "CI/CD",
+        "Kubernetes",
+        "Git",
+        "CircleCI",
+        "Kubernetes (K8s)",
+        "Expo",
+        "Webpack",
+        "Babel",
+        "Gulp",
+        "pm2"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Senior",
+      "keywords": [
+        "Git",
+        "Jira",
+        "agile/scrum",
+        "Prettier",
+        "ESLint",
+        "Postman",
+        "GitHub",
+        "GitLab",
+        "Figma",
+        "Storybook",
+        "Sentry"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Latvian",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "Motorcycles"
+    },
+    {
+      "name": "Extreme programming"
+    }
+  ]
+}
