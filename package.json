@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "jsonresume-theme-even": "^0.26.1",
-    "puppeteer": "^24.25.0",
+    "puppeteer": "^24.28.0",
     "resumed": "^6.1.0"
   }
 }
