@@ -33,7 +33,8 @@
       "summary": "Refactoring and developing new features for an existing project that provides EV charging solutions(OCPI/Hubject OICP).",
       "highlights": [
         "Refactored legacy code to improve maintainability and performance",
-        "Improve environment setup using Docker"
+        "Implemented and integrated EV charging protocols: OCPI (Open Charge Point Interface) and Hubject OICP (Open InterCharge Protocol)",
+        "Improved environment setup using Docker"
       ]
     },
     {
